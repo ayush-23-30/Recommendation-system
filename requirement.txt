@@ -1,3 +1,7 @@
 scikit-learn
 requests
+gdownstreamlit
+pandas
+scikit-learn
+requests
 gdown
