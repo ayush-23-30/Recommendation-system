@@ -1,0 +1,16 @@
+Types of Recommender systems 
+
+1.  Content based -> like netflix movies , amazon sales 
+
+2. collaborative filtering -> give output on the previous acts ; like we have A and B they have same taste in movies show; if A watches a movies then it is recommended to B also 
+
+3. hybird -> Content + collaborative 
+
+----------- 
+In this project we will use Content BASED Systems 
+
+----- Project Flow ----- 
+
+Data -> Data Processing -> Creating Models -> Website using Steamlit -> Delpoyment 
+
+using --- TMDB 5000 Movies Dataset
