@@ -1,6 +1,6 @@
 scikit-learn
 requests
-gdownstreamlit
+streamlit
 pandas
 scikit-learn
 requests
